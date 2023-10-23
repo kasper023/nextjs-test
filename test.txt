@@ -1,0 +1,24 @@
+Develop a theme configuration system within a Next.js application, enabling runtime theme switching without a page reload.
+
+Specifications:
+Theme Configuration:
+Define at least two distinct themes (e.g., a light theme and a dark theme) using Shadcn UI's theming capabilities.
+Implement a theme toggle feature allowing users to switch between themes at runtime.
+Ensure that the selected theme applies consistently across all pages and components in the application.
+Store the user's theme preference in local storage to persist across sessions.
+
+User Interaction:
+Provide a simple, intuitive UI for users to switch between themes.
+Ensure that the theme transition is smooth and does not disrupt the user experience.
+
+Documentation:
+Document your theme configuration setup, the structure of your theme files, and how themes are applied across your application in a README file.
+Include comments in your code to explain any complex or non-obvious logic.
+
+Testing:
+Develop test cases to validate your theme configuration system.
+Ensure that your tests cover the theme application, user interaction, and theme persistence across sessions.
+
+Evaluation Criteria:
+Evaluation will focus on code correctness, completeness, and clarity, along with documentation and test cases. Prompt and quality submissions will be viewed favorably for this and future positions.
+Good Luck, Ernest
